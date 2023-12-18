@@ -1,0 +1,12 @@
+1. Tipe data primitif
+2. Tipe data array & tuple
+3. Tipe Object
+4. Tipe Enums
+5. alias & Interface
+6. Union Types
+7. Functions
+8. Casting [as]
+9. Class
+10. Basic Generic
+11. Readonly
+12. @types/definite | d.ts
