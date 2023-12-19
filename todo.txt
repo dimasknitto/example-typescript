@@ -8,5 +8,4 @@
 8. Casting [as]
 9. Class
 10. Basic Generic
-11. Readonly
-12. @types/definite | d.ts
+11. d.ts
