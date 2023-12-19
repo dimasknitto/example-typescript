@@ -1,3 +1,5 @@
+import { Konvensional, Modern } from "../types/interface";
+
 describe('Pengujian tipe', () => {
     const buatMobil:Konvensional = {
         nama: 'Kijang',
