@@ -1,5 +1,4 @@
 import express, { Express } from 'express';
-import { Kendaraan } from './types/interface';
 const app: Express = express();
 const port: number = 3000;
 
